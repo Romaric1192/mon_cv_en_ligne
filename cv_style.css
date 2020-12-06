@@ -1,0 +1,53 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+/*.container{
+    text-align: center;
+}*/
+hr{
+    margin-left: 360px;
+    margin-right: 360px;
+    border-color: lightskyblue;
+}
+img{
+    border-radius: 100%;
+    /*float: left;*/
+}
+.etat_civil{
+    padding: 20px;
+    list-style: none;
+   margin-right: 380px;
+   float: right;
+}
+p{
+    margin: 0px;
+}
+.titre{
+    
+    text-align: center;
+    margin-top: 20px;
+}
+.titre:hover{
+    
+    text-align: center;
+    margin-top: 50px;
+    color: forestgreen;
+}
+.first_container{
+    margin-left: 400px;
+    /*padding: 15px;*/
+}
+.sous_titre{
+    display: block;
+    text-align: center;
+}
+.annee{
+    margin-left: 450px;
+}
+.stage{
+    margin-left: 400px;
+}
+.lieu_stage{
+    margin-left: 390px;
+}
